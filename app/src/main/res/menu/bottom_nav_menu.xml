@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title=""
+        android:id="@+id/ranklist_basic"
+        android:icon="@drawable/ranklist_basic" />
+
+    <item
+        android:title=""
+        android:id="@+id/ranklist_intermediate"
+        android:icon="@drawable/ranklist_intermediate" />
+
+    <item
+        android:title=""
+        android:id="@+id/ranklist_advanced"
+        android:icon="@drawable/ranklist_advanced" />
+
+</menu>
